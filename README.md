@@ -1,4 +1,4 @@
-# Advanced Password Checker
+# PasswordChecker
 
 A modern, interactive password strength checker and generator built with React.
 
