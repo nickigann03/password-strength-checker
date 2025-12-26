@@ -25,6 +25,9 @@ Built with a stunning **Cyberpunk 2077-inspired aesthetic**, it gamifies the pas
 
 > ⚠️ **Security Notice**: Your password never leaves your browser. The only external call is to the Have I Been Pwned API using k-Anonymity (only a 5-character hash prefix is sent).
 
+<img width="1903" height="906" alt="image" src="https://github.com/user-attachments/assets/6dac2e63-5e21-48af-82d6-16688a215891" />
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/d5b733f4-2e14-4235-ae44-a8a848de591b" />
+
 ---
 
 ## ✨ Features
